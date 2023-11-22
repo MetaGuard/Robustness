@@ -15,11 +15,11 @@ We used Python v3.10.2 on Windows 10 for training and testing all components of 
 Training and testing this system requires use of the Berkeley Open Extended Reality Recording Dataset 2023 (BOXRR-23) dataset, available for free at https://rdi.berkeley.edu/metaverse/boxrr-23/.
 
 #### Results
-![](./figures/added-noise.png)
-![](./figures/reduced-fps.png)
-![](./figures/reduced-precision.png)
-![](./figures/reduced-dimensions.png)
+<img src="./figures/added-noise.png" width="500">
+<img src="./figures/reduced-fps.png" width="500">
+<img src="./figures/reduced-precision.png" width="500">
+<img src="./figures/reduced-dimensions.png" width="500">
 
-Copyright &copy;2023 Berkeley RDI -- License [BSD](https://github.com/metaguard/metaguardplus/blob/main/LICENSE)
+Copyright &copy;2023 Berkeley RDI -- License [BSD](https://github.com/metaguard/robustness/blob/main/LICENSE)
 
 _We appreciate the support of Meta Platforms, the Minderoo Foundation, the National Science Foundation, the National Physical Science Consortium, the Fannie and John Hertz Foundation, and the Berkeley Center for Responsible, Decentralized Intelligence._
